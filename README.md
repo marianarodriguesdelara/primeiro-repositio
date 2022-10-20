@@ -1,3 +1,8 @@
+# primeiro _repositorio
+
+para copiar codigo em html
+´´
 <html>
-< h1>Meu primeiro arquivo em htmlk/h1>
+<html>meu primeiro arquivo html</h1>
 </html>
+` ``
